@@ -1,0 +1,19 @@
+name: com.ziye.packagetest
+displayName: package test
+description: package test
+repoUrl: 'https://github.com/zuesDie/PackageManager'
+parentRepoUrl: null
+licenseSpdxId: MulanPSL-2.0
+licenseName: 'Mulan Permissive Software License, Version 2'
+topics:
+  - testing
+hunter: zuesDie
+gitTagPrefix: com.ziye.packagetest/1.0.0
+gitTagIgnore: ''
+minVersion: ''
+image: ''
+readme: 'main:README.md'
+readme_zhCN: 'main:README.md'
+displayName_zhCN: ''
+description_zhCN: ''
+createdAt: 1685349778119
