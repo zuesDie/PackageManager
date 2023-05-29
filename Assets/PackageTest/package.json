@@ -1,0 +1,9 @@
+{
+	"name":"com.ziye.packagetest",  
+	"displayName":"package test",
+	"description":"package test",
+	"version":"1.0.1",
+	"unity":"2019.4",
+	"license":"Apache2.0",
+	"dependencies":{}
+}
